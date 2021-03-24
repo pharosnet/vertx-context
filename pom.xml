@@ -11,6 +11,8 @@
     <name>vertx-context</name>
     <url>https://github.com/pharosnet/vertx-context</url>
 
+    <description>the vertx context.</description>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
