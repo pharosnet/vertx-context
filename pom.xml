@@ -224,7 +224,7 @@
     </developers>
 
     <scm>
-        <tag>v${project.version}</tag>
+        <tag>main</tag>
         <url>https://github.com/pharosnet/vertx-context</url>
         <connection>scm:git:git@github.com:pharosnet/vertx-context.git</connection>
         <developerConnection>scm:git:git@github.com:pharosnet/vertx-context.git</developerConnection>
